@@ -1,0 +1,11 @@
+{
+  "appId": "academic.goals.imperior.me",
+  "appName": "Academic Goals",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
